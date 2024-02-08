@@ -9,7 +9,7 @@ The purpose of this policy is to outline the procedures for individual WCA Staff
 1. Ability to make Payments
    1. Through the course of of their role, WCA Staff Members may gain the ability to make payments on behalf of the WCA (e.g. explicit access to a bank account or payment card details). This includes abilities with limited scope, such as access to an online service which has WCA payment details pre-linked.
    2. As a general principle, WCA Staff Members should only grant the ability to make payments to other WCA Staff Members sparingly and when it is necessary for them to act in the scope of their role within the WCA.
-   3. The posession of payment ability does not authorize individual Staff Members to act in a manner which will cause the WCA to incurr costs. 
+   3. The posession of payment ability does not authorize individual Staff Members to act in a manner which will cause the WCA to incur costs. 
    4. WCA Staff Members who use their ability to make payments in a manner not in line with the WCA Bylaws, the WCA Motions, and/or WCA Policies (including this policy) are considered to have acted outside the scope of their role within the WCA. The WCA reserves to take action in line with the WCA Code of Ethics or applicable laws in such an instance. 
 2. Authority to make Payments
    1. Specific individual Staff Members, or Staff Members with defined roles, have the authority to make payments.
