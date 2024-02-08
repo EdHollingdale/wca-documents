@@ -13,8 +13,9 @@ The purpose of this policy is to outline the procedures for individual WCA Staff
    4. WCA Staff Members who use their ability to make payments in a manner not in line with the WCA Bylaws, the WCA Motions, and/or WCA Policies (including this policy) are considered to have acted outside the scope of their role within the WCA. The WCA reserves to take action in line with the WCA Code of Ethics or applicable laws in such an instance. 
 2. Authority to make Payments
    1. Specific individual Staff Members, or Staff Members with defined roles, have the authority to make payments.
-   2. Staff Members with authority may make payments directly, or authorize another WCA Staff Member with payment ability in writing to make the payment on an individual transaction basis.
-   3. Payment authorization is split into multiple payment categories, and individuals may have a different payment authorization level for different categories. The payment authorization level applies on a per-transaction basis.
+      1. Where an individual Staff Member is named, the role in which capacity they have authorization is specified. If the WCA Staff Member ceases to hold that role the authorization is considered invalid.
+   3. Staff Members with authority may make payments directly, or authorize another WCA Staff Member with payment ability in writing to make the payment on an individual transaction basis.
+   4. Payment authorization is split into multiple payment categories, and individuals may have a different payment authorization level for different categories. The payment authorization level applies on a per-transaction basis.
    5. All payments above individual authorization levels must be authorized by the WCA Board via majority vote.
 3. Conflicts of Interest
    1. WCA Staff Members with payment authority may not authorize payment to themselves, an immediate relative, or an organization where they are a director, owner, or involved in the management of finances.
@@ -44,9 +45,9 @@ The purpose of this policy is to outline the procedures for individual WCA Staff
   
 ### Authorized Individuals
 All figures are in US Dollars. Transactions in foreign currencies should be converted to the US Dollar equivalent amount. Reminder, all payments above these figures or not in these categories must be explicitly authorized via a majority vote of the WCA Board.
-| Staff Member Name | Gear Team Orders | Championship Support | Travel Funding | Equipment Funding | RO Support | Contractors | Other Budget Items |
-| ----------------- | ---------------- | -------------------- | -------------- | ----------------- | ---------- | ----------- | ------------------ |
-| Blake Thompson    | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000     | $5,000. $10,000 for legal fees | 
-| Raymond Goslow    | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000     | $5,000. $10,000 for legal fees |   
-| Edward Hollingdale| $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000     | $5,000. $10,000 for legal fees |   
-| All WFC Members   | $3,000           | $0                   | $0             | $0                | $0         | $0          | $0                 |  
+| Staff Member Name / Defined Role | Individual Role     | Gear Team Orders | Championship Support | Travel Funding | Equipment Funding | RO Support | Contractors | Other Budget Items |
+| -------------------------------- | ------------------- |----------------- | -------------------- | -------------- | ----------------- | ---------- | ----------- | ------------------ |
+| Blake Thompson                   | Director of the WCA | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000     | $5,000. $10,000 for legal fees | 
+| Raymond Goslow                   | WCA Treasurer       | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000     | $5,000. $10,000 for legal fees |   
+| Edward Hollingdale               | WFC Senior Member   | $10,000          | $50,000              | $5,000         | $10,000           | $5,000     | $10,000     | $5,000. $10,000 for legal fees |   
+| All WFC Members                  | n/a                 | $3,000           | $0                   | $0             | $0                | $0         | $0          | $0                 |  
