@@ -19,7 +19,7 @@ The purpose of this policy is to define the conditions under which WCA Staff can
 All expenses must be approved in writing by the WCA Financial Committee (WFC) or WCA Board in accordance with relevant Policies and other decisions by the WCA Board or WFC. Approval must be sought at least 60 days before the first date of the WCA Competition for which they apply.
 
 ### Annual Budget Allocation
-The WCA Board will approve as part of the annual budget a total maximum budget for Traveil Reimbursement for the year. 
+The WCA Board will approve as part of the annual budget a total maximum budget for Travel Reimbursement for the year. 
 
 ### Expense Reimbursement Processes
 1. Receipts are required for all expenses (except mileage)
@@ -138,6 +138,6 @@ This process needs to be followed when applying for funding to support travel to
 2. Please complete the funding application form [here](https://docs.google.com/forms/d/12tz2I_EeBORm14kQO6ZB5TOp321YbXkIXvrxUNIHxN0). This form will be automatically submitted to the WCA Financial Committee.
 3. A member of the WFC will review the form and may liaise with you to ensure the application is complete and correct.
 4. The WFC will approve or reject the application up to their delegated authority and within the annual budget allocation, with all other applications to be approved by the WCA Board. If the application is rejected by the WFC, the applicant may appeal this decision to the WCA Board. Applications rejected by the WCA Board are considered final decisions. 
-7. The WFC will inform the applicant of the result of the approval process.
-8. If the application is successful, a member of the WFC will be appointed to be your point of liaison for that funding request.
-9. A Staff Member or Members with payment authorization will be responsible for facilitating payments in line with the Expense Reimbursement Process.
+5. The WFC will inform the applicant of the result of the approval process.
+6. If the application is successful, a member of the WFC will be appointed to be your point of liaison for that funding request.
+7. A Staff Member or Members with payment authorization will be responsible for facilitating payments in line with the Expense Reimbursement Process.
