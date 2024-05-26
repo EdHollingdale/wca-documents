@@ -1,6 +1,6 @@
 # WCA Travel Reimbursement Policy
 
-### Version 1.3 {.version}
+### Version 1.4 {.version}
 
 ## Purpose
 The purpose of this policy is to define the conditions under which WCA Staff can be reimbursed their expenses originated from travels to assist in our nonprofit activities in support of our Mission.
@@ -14,9 +14,12 @@ The purpose of this policy is to define the conditions under which WCA Staff can
 5. Expense categories include
    1. WCA Staff travel and lodging
    2. WCA Staff meals
-
+  
 ### Approval
-All expenses must be approved in writing by the WCA Board of Directors in accordance with relevant Policies and other Board decisions. Approval must be sought at least 60 days before the first date of the WCA Competition for which they apply.
+All expenses must be approved in writing by the WCA Financial Committee (WFC) or WCA Board in accordance with relevant Policies and other decisions by the WCA Board or WFC. Approval must be sought at least 60 days before the first date of the WCA Competition for which they apply.
+
+### Annual Budget Allocation
+The WCA Board will approve as part of the annual budget a total maximum budget for Travel Reimbursement for the year. 
 
 ### Expense Reimbursement Processes
 1. Receipts are required for all expenses (except mileage)
@@ -29,11 +32,11 @@ All expenses must be approved in writing by the WCA Board of Directors in accord
 3. Out of pocket expenses
    1. All out of pocket expense reimbursement requests must be filed with the WFC within 30 days of the transaction, with supporting receipts.
 4. Delegated reimbursement
-   1. The WFC, Committee/Team Leaders, and Senior Delegates may assist the WCA Treasurer (or WFC Senior Member) with reimbursements by aggregating expense requests from multiple WCA Staff.
+   1. The WFC, Committee/Team Leaders, and Senior Delegates may assist the WFC with reimbursements by aggregating expense requests from multiple WCA Staff.
       1. The applicant must present all relevant receipts to the WFC, with the names of the people who incurred each expense.
-      2. The applicant would then be responsible for properly distributing reimbursements they receive from the Treasurer, on behalf of the WCA.
+      2. The applicant would then be responsible for properly distributing reimbursements they receive from the WCA, on behalf of the WCA.
 5. Advance payment
-   1. The WCA Treasurer (or WFC Senior Member) may provide an advance from the WCA to help pay for expenses that cannot be directly paid by the WCA for some reason.
+   1. A Staff Member with payment authorization may provide an advance from the WCA to help pay for expenses that cannot be directly paid by the WCA for some reason.
       1. Receipts should be submitted for all usage of advance funds within 30 days* of the transaction(s).
       2. All excess funds not documented by receipts must be returned to the WCA within 60 days* of receiving the advance.
 
@@ -134,8 +137,7 @@ This process needs to be followed when applying for funding to support travel to
 1. Approach your Senior Delegate or a member of the WCA Board of Directors if more appropriate. You will need their agreement to submit the application for funding and you will need to submit their name on the application form as a sponsor.
 2. Please complete the funding application form [here](https://docs.google.com/forms/d/12tz2I_EeBORm14kQO6ZB5TOp321YbXkIXvrxUNIHxN0). This form will be automatically submitted to the WCA Financial Committee.
 3. A member of the WFC will review the form and may liaise with you to ensure the application is complete and correct.
-4. The application will be reviewed by the WFC Leader or a WFC Senior Member.
-5. The application will be submitted to the WCA Board of Directors and again may contact you to clarify any points.
-6. The WCA Board of Directors will vote on the application and inform the WFC of their decision.
-7. The WFC will inform the applicant of the result of the approval process.
-8. If the application is successful, a member of the WFC will be appointed to be your point of liaison for that funding request.
+4. The WFC will approve or reject the application up to their delegated authority and within the annual budget allocation, with all other applications to be approved by the WCA Board. If the application is rejected by the WFC, the applicant may appeal this decision to the WCA Board. Applications rejected by the WCA Board are considered final decisions. 
+5. The WFC will inform the applicant of the result of the approval process.
+6. If the application is successful, a member of the WFC will be appointed to be your point of liaison for that funding request.
+7. A Staff Member or Members with payment authorization will be responsible for facilitating payments in line with the Expense Reimbursement Process.
